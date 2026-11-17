@@ -295,3 +295,7 @@ Detailed design, secret formats and operational boundaries are documented in the
 ## License
 
 Apache-2.0. See [LICENSE](LICENSE).
+
+## Acknowledgments
+
+Prepared in collaboration by **psehgaft**, **san985tos**, **frankjunker87-arch** and **tec-girl**.
