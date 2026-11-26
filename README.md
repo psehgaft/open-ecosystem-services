@@ -295,3 +295,12 @@ Detailed design, secret formats and operational boundaries are documented in the
 ## License
 
 Apache-2.0. See [LICENSE](LICENSE).
+
+
+## Contributors
+
+- [@jaque-salinas](https://github.com/jaque-salinas) — fork maintainer
+- [@psehgaft](https://github.com/psehgaft) — contributor
+- [@san985tos](https://github.com/san985tos) — contributor
+- [@frankjunker87-arch](https://github.com/frankjunker87-arch) — contributor
+- [@tec-girl](https://github.com/tec-girl) — contributor
